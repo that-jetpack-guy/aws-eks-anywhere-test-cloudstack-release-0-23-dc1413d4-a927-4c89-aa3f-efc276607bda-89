@@ -45,7 +45,7 @@ spec:
   managementCluster:
     name: release-i-043ee-d2a6c19
   workerNodeGroupConfigurations:
-  - count: 3
+  - count: 1
     machineGroupRef:
       kind: CloudStackMachineConfig
       name: release-i-043ee-d2a6c19
